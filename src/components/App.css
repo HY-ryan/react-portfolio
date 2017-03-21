@@ -1,0 +1,27 @@
+body {
+  background-color: #f4f9ff;
+  height: 100%;
+  background-size: 100% 100%;
+}
+
+.pi-button {
+  height: 125px;
+  width: 100%;
+}
+
+.logos {
+  padding-top: 60px;
+}
+
+.jumbotron-home {
+  background-color: #c9e4ff;
+}
+
+.recipe-full-list {
+  width: 400px;
+  height: 40px;
+}
+
+.padit {
+  padding-top: 30px;
+}
